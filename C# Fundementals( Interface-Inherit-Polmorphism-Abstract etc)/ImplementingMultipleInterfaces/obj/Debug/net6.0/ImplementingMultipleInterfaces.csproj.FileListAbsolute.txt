@@ -1,0 +1,15 @@
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ImplementingMultipleInterfaces\bin\Debug\net6.0\ImplementingMultipleInterfaces.exe
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ImplementingMultipleInterfaces\bin\Debug\net6.0\ImplementingMultipleInterfaces.deps.json
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ImplementingMultipleInterfaces\bin\Debug\net6.0\ImplementingMultipleInterfaces.runtimeconfig.json
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ImplementingMultipleInterfaces\bin\Debug\net6.0\ImplementingMultipleInterfaces.dll
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ImplementingMultipleInterfaces\bin\Debug\net6.0\ImplementingMultipleInterfaces.pdb
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ImplementingMultipleInterfaces\obj\Debug\net6.0\ImplementingMultipleInterfaces.csproj.AssemblyReference.cache
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ImplementingMultipleInterfaces\obj\Debug\net6.0\ImplementingMultipleInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ImplementingMultipleInterfaces\obj\Debug\net6.0\ImplementingMultipleInterfaces.AssemblyInfoInputs.cache
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ImplementingMultipleInterfaces\obj\Debug\net6.0\ImplementingMultipleInterfaces.AssemblyInfo.cs
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ImplementingMultipleInterfaces\obj\Debug\net6.0\ImplementingMultipleInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ImplementingMultipleInterfaces\obj\Debug\net6.0\ImplementingMultipleInterfaces.dll
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ImplementingMultipleInterfaces\obj\Debug\net6.0\refint\ImplementingMultipleInterfaces.dll
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ImplementingMultipleInterfaces\obj\Debug\net6.0\ImplementingMultipleInterfaces.pdb
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ImplementingMultipleInterfaces\obj\Debug\net6.0\ImplementingMultipleInterfaces.genruntimeconfig.cache
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ImplementingMultipleInterfaces\obj\Debug\net6.0\ref\ImplementingMultipleInterfaces.dll

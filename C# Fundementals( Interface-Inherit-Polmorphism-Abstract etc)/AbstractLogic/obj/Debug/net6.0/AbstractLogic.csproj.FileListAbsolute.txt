@@ -1,0 +1,15 @@
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\AbstractLogic\bin\Debug\net6.0\AbstractLogic.exe
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\AbstractLogic\bin\Debug\net6.0\AbstractLogic.deps.json
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\AbstractLogic\bin\Debug\net6.0\AbstractLogic.runtimeconfig.json
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\AbstractLogic\bin\Debug\net6.0\AbstractLogic.dll
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\AbstractLogic\bin\Debug\net6.0\AbstractLogic.pdb
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\AbstractLogic\obj\Debug\net6.0\AbstractLogic.csproj.AssemblyReference.cache
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\AbstractLogic\obj\Debug\net6.0\AbstractLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\AbstractLogic\obj\Debug\net6.0\AbstractLogic.AssemblyInfoInputs.cache
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\AbstractLogic\obj\Debug\net6.0\AbstractLogic.AssemblyInfo.cs
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\AbstractLogic\obj\Debug\net6.0\AbstractLogic.csproj.CoreCompileInputs.cache
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\AbstractLogic\obj\Debug\net6.0\AbstractLogic.dll
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\AbstractLogic\obj\Debug\net6.0\refint\AbstractLogic.dll
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\AbstractLogic\obj\Debug\net6.0\AbstractLogic.pdb
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\AbstractLogic\obj\Debug\net6.0\AbstractLogic.genruntimeconfig.cache
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\AbstractLogic\obj\Debug\net6.0\ref\AbstractLogic.dll

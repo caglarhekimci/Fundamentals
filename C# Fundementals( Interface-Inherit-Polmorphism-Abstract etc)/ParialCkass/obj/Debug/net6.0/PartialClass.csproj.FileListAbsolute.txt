@@ -1,0 +1,15 @@
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ParialCkass\obj\Debug\net6.0\PartialClass.csproj.AssemblyReference.cache
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ParialCkass\obj\Debug\net6.0\PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ParialCkass\obj\Debug\net6.0\PartialClass.AssemblyInfoInputs.cache
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ParialCkass\obj\Debug\net6.0\PartialClass.AssemblyInfo.cs
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ParialCkass\obj\Debug\net6.0\PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ParialCkass\bin\Debug\net6.0\PartialClass.exe
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ParialCkass\bin\Debug\net6.0\PartialClass.deps.json
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ParialCkass\bin\Debug\net6.0\PartialClass.runtimeconfig.json
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ParialCkass\bin\Debug\net6.0\PartialClass.dll
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ParialCkass\bin\Debug\net6.0\PartialClass.pdb
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ParialCkass\obj\Debug\net6.0\PartialClass.dll
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ParialCkass\obj\Debug\net6.0\refint\PartialClass.dll
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ParialCkass\obj\Debug\net6.0\PartialClass.pdb
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ParialCkass\obj\Debug\net6.0\PartialClass.genruntimeconfig.cache
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ParialCkass\obj\Debug\net6.0\ref\PartialClass.dll

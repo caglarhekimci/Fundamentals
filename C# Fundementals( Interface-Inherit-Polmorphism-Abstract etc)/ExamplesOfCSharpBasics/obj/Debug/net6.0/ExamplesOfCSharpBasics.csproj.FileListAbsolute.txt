@@ -1,0 +1,15 @@
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ExamplesOfCSharpBasics\bin\Debug\net6.0\ExamplesOfCSharpBasics.exe
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ExamplesOfCSharpBasics\bin\Debug\net6.0\ExamplesOfCSharpBasics.deps.json
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ExamplesOfCSharpBasics\bin\Debug\net6.0\ExamplesOfCSharpBasics.runtimeconfig.json
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ExamplesOfCSharpBasics\bin\Debug\net6.0\ExamplesOfCSharpBasics.dll
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ExamplesOfCSharpBasics\bin\Debug\net6.0\ExamplesOfCSharpBasics.pdb
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ExamplesOfCSharpBasics\obj\Debug\net6.0\ExamplesOfCSharpBasics.csproj.AssemblyReference.cache
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ExamplesOfCSharpBasics\obj\Debug\net6.0\ExamplesOfCSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ExamplesOfCSharpBasics\obj\Debug\net6.0\ExamplesOfCSharpBasics.AssemblyInfoInputs.cache
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ExamplesOfCSharpBasics\obj\Debug\net6.0\ExamplesOfCSharpBasics.AssemblyInfo.cs
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ExamplesOfCSharpBasics\obj\Debug\net6.0\ExamplesOfCSharpBasics.csproj.CoreCompileInputs.cache
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ExamplesOfCSharpBasics\obj\Debug\net6.0\ExamplesOfCSharpBasics.dll
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ExamplesOfCSharpBasics\obj\Debug\net6.0\refint\ExamplesOfCSharpBasics.dll
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ExamplesOfCSharpBasics\obj\Debug\net6.0\ExamplesOfCSharpBasics.pdb
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ExamplesOfCSharpBasics\obj\Debug\net6.0\ExamplesOfCSharpBasics.genruntimeconfig.cache
+C:\Users\ayberk\source\repos\ExamplesOfCSharpBasics\ExamplesOfCSharpBasics\obj\Debug\net6.0\ref\ExamplesOfCSharpBasics.dll
